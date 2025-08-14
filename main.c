@@ -1,8 +1,5 @@
 #include <stdio.h> // Para printf, scanf
 
-// Aqui você está incluindo arquivos .c diretamente.
-// Geralmente o recomendado é incluir .h, mas como pediu para não mudar nada,
-// vou apenas comentar que isso pode gerar redefinição de funções/variáveis
 #include "util.c"              // Funções utilitárias: limpar_buffer_entrada, aguardar_tecla, limpar_tela, etc.
 #include "global.c"            // Declaração e definição das variáveis globais
 #include "livros.c"            // Funções relacionadas ao cadastro, exclusão e listagem de livros

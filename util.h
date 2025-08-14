@@ -2,7 +2,6 @@
 #define UTIL_H
 
 // Declaração da função que limpa a tela do terminal/console.
-// A implementação pode variar conforme o sistema operacional.
 void limpar_tela();
 
 // Declaração da função que pausa a execução até o usuário pressionar alguma tecla.

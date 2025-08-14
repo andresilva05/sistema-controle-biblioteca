@@ -1,8 +1,5 @@
 #include "global.h"
 
-// Aqui são **definidas** (alocadas de fato) as variáveis globais
-// que foram apenas **declaradas com extern** no arquivo global.h.
-
 // Vetor que armazena os livros cadastrados no sistema, com tamanho máximo definido em MAX_LIVROS
 Livro livros[MAX_LIVROS];
 
